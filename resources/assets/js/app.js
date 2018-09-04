@@ -74,7 +74,7 @@ Vue.use(require('@websanova/vue-auth'), {
 });
 Vue.use(VueGoogleMaps, {
     load: {
-        key: "AIzaSyDJjXA4HidhwOzBgutI2NhRcGGsgPzIOas",
+        key: "",
         libraries: "places" // necessary for places input
     }
 });
